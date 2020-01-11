@@ -8,8 +8,4 @@ For compilation run `make`.
 ```
 ./fdf map_file
 ```
-
-**Exapmle of map:**
-```
-![screenshot](/screens/screen.png?raw=true)
-```
+![screenshot](/screens/screen1.png?raw=true)
